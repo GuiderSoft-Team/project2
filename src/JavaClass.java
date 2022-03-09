@@ -1,7 +1,8 @@
 public class JavaClass {
     public static void main(String[] args) {
 
-        System.out.println("bu");
+        int x=5;
+        System.out.println(x+"-"+(x*x));
 
     }
 }
